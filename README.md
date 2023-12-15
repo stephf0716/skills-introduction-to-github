@@ -22,6 +22,8 @@ _Get started using GitHub in less than an hour._
 
 _Congratulations, you've completed this course and joined the world of developers!_
 
+bloop
+
 <img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
 
 Here's a recap of your accomplishments:
